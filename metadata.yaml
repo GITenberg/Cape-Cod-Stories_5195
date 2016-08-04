@@ -1,0 +1,30 @@
+_repo: Cape-Cod-Stories_5195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Joseph Crosby
+    alias: Lincoln, Joseph C.
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '810'
+    url: http://www.gutenberg.org/2009/agents/810
+description: Cover -- Contents.
+gutenberg_issued: '2006-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cape Cod (Mass.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: Two pairs of shoes -- The count and the manager -- The south shore
+  weather bureau -- The dog star -- The mare and the motor -- The mark on the door
+  -- The love of Lobelia 'Ankins -- The meanness of Rosy -- The antiquers -- His native
+  heath -- Jonesy.
+title: Cape Cod Stories
+url: http://www.gutenberg.org/ebooks/5195
